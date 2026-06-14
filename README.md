@@ -1,65 +1,40 @@
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-
 # Monolith Panels for Voron 2.4 and Trident
 
-### 1515 extrusion version by CabbageCorp can be found [here](https://github.com/CloakedWayne/Monolith_Panels/tree/main/Usermods/CabbageCorp/Mini_Monolith).
+### The 1515 extrusion version by CabbageCorp can be found [here](https://github.com/CloakedWayne/Monolith_Panels/tree/main/UserMods/CabbageCorp/Mini_Monolith).
 
-<br/>
-
-![1](Images/distant_view.png)
-
-[![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/JanBKxAzDz)
+![Monolith Panels render](Images/monolith_panels_render.png)
 
 ## What's this?
+
 Overcomplicated panels.
 
-![2](Images/upside_down.png)
+## Repository contents
 
-## Use:
-- The CAD contains everything that's needed for V2/VT 250/300/350mm with BOM thickness panels (3mm) and is also **a good assembly guide**.
+- [CAD](CAD/) - CAD files and assembly reference.
+- [STLs](STLs/) - Printable STL files.
+- [BOM](BOM/) - Variant BOM CSVs.
+- [Images](Images/README.md) - Render gallery.
+- [UserMods](UserMods/) - User mods and community additions.
 
-- The vertical printed part length is determined by the theoretical Z travel and NOT the bed size. Pick the vertical part length based on the Z travel of your machine. Tridents usually have a 250mm Z regardless of the bed size, except the cubed kits.
+## Use
 
-- It's intended to be used with **another layer of 3mm foam tape** or with 5mm foam tape paired with 4mm panels (Monolith Gantry stepper protrusion is 3.6mm).
-
-- Feel free to remix the parts for different setups!
-
+- The CAD contains everything needed for V2/VT 250/300/350mm with BOM-thickness panels (3mm), and is also a good assembly guide.
 - Parts will load in the correct orientation when exported.
+- The vertical printed part length is based on theoretical Z travel, not bed size. Pick the vertical part length based on your machine's Z travel. Tridents usually have 250mm Z regardless of bed size, except the cubed kits.
+- The panel system is intended to be used with another layer of 3mm foam tape, or with 5mm foam tape paired with 4mm panels. Monolith Gantry stepper protrusion is 4mm.
+- The corners can be used without the straights, but your mileage may vary if you do not put VHB on them.
+- When used as a panel frame, you can get away with putting VHB only in the middle.
+- Clips are fairly sensitive to EM/PA, but can be scaled to fit the other plastic parts. They are not sensitive to aluminum extrusion tolerances.
+- Recommended shrinkage compensation for ABS parts is 99.3-99.5%. Test this before committing to large prints, because shrinkage can add up to 3-4mm in total.
+- Feel free to remix the parts for different setups.
 
-- The corners can be used without the straights, but your mileage may vary if you don't put VHB on them.
+## Community and support
 
-- When used as a panel frame you can get away with putting VHB only in the middle.
-
-- Recommended **shrinkage compensation** for the parts when printed in **ABS is 99.3-99.5%**. Make sure to test this before committing to printing huge amounts of plastic, because shrinkage can be 3-4mm in total.
-
-- Clips are fairly sensitive to EM/PA, but can be easily scaled to fit perfectly in the other plastic parts. They're not sensitive to alu extrusion tolerances.
-
-![3](Images/inside.png)
-
-## BOM
-### DISCLAIMER: This is a challenging mod and a lot of the stuff is still untested. The BOM quantities can greatly vary based on how you build it. Always refer to CAD.
-
-![4](Images/spread_out.png)
-
-|No.|Description|Qty|
-|---|---|---|
-|1.|M3x16 SHCS or BHCS|probably more than 10|
-|2.|M3x6 BHCS or M3x8 FHCS (better)|definitely more than 10|
-|3.|M3 nuts|probably more than 10|
-|4.|M3x5x4mm heatset inserts|definitely more than 10|
-|5.|VHB tape|enough|
-|6.|Foam tape|enough|
-|7.|4mm OD PTFE tube|exactly 96mm|
-
-![5](Images/corner_closeup.png)
-
-If you've any got questions you can find me on Discord ***@CloakedWayne***
-<br/><br/><br/><br/>
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
-
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-image]][cc-by-nc-sa]
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
+> [!NOTE]
+> **If you have questions or want to stay more up-to-date with Monolith, consider joining the dedicated Discord server.**
+>
+> [![Join the Discord](https://discord.com/api/guilds/1227971059764953230/widget.png?style=banner3)](https://discord.gg/monolith3d)
+>
+> **If you would like to see more of this and other projects in the future, consider supporting me on Ko-fi.**
+>
+> [![Support Monolith on Ko-fi](https://raw.githubusercontent.com/Monolith3D/MISC/main/Common_repo_files/kofi_short_button_white.png)](https://ko-fi.com/monolith)

@@ -1,0 +1,23 @@
+Amount,Item,Description
+32 pcs,M3 nut,M3 hex nut.
+32 pcs,M3X16 SHCS,Socket head cap screw.
+28 pcs,M3X6 BHCS,Button head cap screw.
+28 pcs,M3xD5x4 threaded insert,Heat-set threaded insert.
+9 m,Foam tape,An additional layer of the same foam 3mm thick tape from the Voron BOM.
+1.5 m,VHB tape,VHB tape for adhesive mounting.
+0.1 m,4mm OD PTFE tube,PTFE tube for the hinges.
+8 pcs,350mm_horizontal_side_x8.stl,Horizontal side piece for the 350mm panel set.
+2 pcs,350mm_horizontal_door_a_x2.stl,"Door horizontal printed piece, A."
+2 pcs,350mm_horizontal_door_b_x2.stl,"Door horizontal printed piece, B."
+6 pcs,V2_350mm_vertical_side_x6.stl,Vertical side piece for the V2 350mm panel set.
+12 pcs,[a]_corner_x12.stl,Universal corner printed part.
+2 pcs,[a]_hinge_a_x2.stl,"Universal hinge printed part, A."
+2 pcs,[a]_hinge_b_x2.stl,"Universal hinge printed part, B."
+2 pcs,[a]_hinge_c_x2.stl,"Universal hinge printed part, C."
+2 pcs,[a]_hinge_d_x2.stl,"Universal hinge printed part, D."
+60 pcs,clip_x60.stl,Printed panel clip.
+20 pcs,corner_clamp_BHCS_x20.stl,Corner clamp for BHCS fastener.
+4 pcs,door_handle_clamp_x4.stl,Printed clamp for the door handle.
+914.0 cm3,Total printed part volume,Total printed plastic volume for the printed parts listed above.
+800-950 g,"Estimated filament use (ABS, Voron settings)",Estimated filament weight for normal unfilled ABS.
+850-1100 g,"Estimated filament use (ABS CF/GF, Voron settings)",Estimated filament weight for filled ABS.
