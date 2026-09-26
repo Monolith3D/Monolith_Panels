@@ -1,6 +1,6 @@
 # Monolith Panels for Voron 2.4 and Trident
 
-### The 1515 extrusion version by CabbageCorp can be found [here](https://github.com/CloakedWayne/Monolith_Panels/tree/main/UserMods/CabbageCorp/Mini_Monolith).
+### The 1515 extrusion version by CabbageCorp can be found [here](https://github.com/Monolith3D/Monolith_Panels/tree/main/Usermods/CabbageCorp/Mini_Monolith).
 
 ![Monolith Panels render](Images/monolith_panels_render.png)
 
@@ -14,7 +14,7 @@ Overcomplicated panels.
 - [STLs](STLs/) - Printable STL files.
 - [BOM](BOM/) - Variant BOM CSVs.
 - [Images](Images/README.md) - Render gallery.
-- [UserMods](UserMods/) - User mods and community additions.
+- [UserMods](Usermods/) - User mods and community additions.
 
 ## Use
 

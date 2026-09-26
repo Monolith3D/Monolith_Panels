@@ -27,4 +27,4 @@ Use user mods at your own risk. They may not receive updates when the main Monol
 | [Parametric with Annex clips](nvrprfct/parametric_with_annex_clips/) | nvrprfct | Adds Annex-style panel clips and corner/key files to Monolith Panels, with stock-size files and parametric CAD for custom panel stacks. |
 | [Middle hinge](SaLei/Middle_hinge/) | SaLei | Provides a middle hinge file and reference image for Monolith Panels. |
 | [ClickyClakyMod](TessaKavanagh/ClickyClakyMod/) | TessaKavanagh | Adds spacers and optional replacement ClickyClacky-style parts for adapting the door hinge/latch setup to Monolith Panels. |
-| your name here :) |  |  |
+|  | your name here :) |  |
